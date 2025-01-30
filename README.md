@@ -102,8 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Streamlit's amazing framework
 - Inspired by the need for data-driven travel planning
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/europe-travel-budget-planner](https://github.com/yourusername/europe-travel-budget-planner)
